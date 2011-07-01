@@ -1,5 +1,6 @@
 <?php
 
+// updated
 phpinfo();
 
 ?>                                                                                     
