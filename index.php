@@ -1,6 +1,5 @@
 <?php
 
-//phpinfo();
-echo "hot deployed!";
+phpinfo();
 
 ?>
