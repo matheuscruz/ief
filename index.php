@@ -1,5 +1,6 @@
 <?php
 
-phpinfo();
+//phpinfo();
+var_dump($_ENV);
 
 ?>
