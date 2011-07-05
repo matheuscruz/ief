@@ -14,7 +14,7 @@
 			array('controller' => 'areas',
 				'action' => 'view', $area['Area']['id'])); ?>
 		</td>
-		<td><?php echo $post['Area']['keywords']; ?></td>
+		<td><?php echo $area['Area']['keywords']; ?></td>
 	</tr>
 	<?php endforeach; ?>
 </table>
